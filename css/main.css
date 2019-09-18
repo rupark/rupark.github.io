@@ -7,7 +7,6 @@ body {
     width: 70%;
     color: white;
     background-color: #17BEBB;
-    padding: 60px
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -30,6 +29,7 @@ h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     color: white;
+    margin-left: 60px;
 }
 p {
     font-size: 1.5em;
