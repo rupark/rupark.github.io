@@ -2,19 +2,10 @@ html {
   scroll-behavior: smooth;
 }
 
- #down {
-  margin-top: 100%;
-  padding-bottom: 25%;
- } 
-
-img {
-  display: block; 
-}
-
 body {
     margin: 60px auto;
     width: 70%;
-    color: blue;
+    color: gray;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
