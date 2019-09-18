@@ -5,8 +5,8 @@ html {
 body {
     margin: 60px auto;
     width: 70%;
-    color: gray;
-    background-color: #D4F4DD;
+    color: white;
+    background-color: #17BEBB;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -20,7 +20,7 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #999;
+    color: white;
 }
 a:hover {
     text-decoration: underline;
@@ -28,11 +28,12 @@ a:hover {
 h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    color: white;
 }
 p {
     font-size: 1.5em;
     line-height: 1.4em;
-    color: #333;
+    color: white;
 }
 footer {
     border-top: 1px solid #d5d5d5;
