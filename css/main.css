@@ -7,6 +7,10 @@ html {
   padding-bottom: 25%;
  } 
 
+img {
+  display: block; 
+}
+
 body {
     margin: 60px auto;
     width: 70%;
