@@ -79,7 +79,7 @@ ul.posts li {
 
 /* Add animation to "page content" */
 .animate-bottom {
-  position: relative;
+  /* position: relative;*/
   -webkit-animation-name: animatebottom;
   -webkit-animation-duration: 1s;
   animation-name: animatebottom;
