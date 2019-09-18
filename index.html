@@ -4,9 +4,13 @@
 		<title>Kate Rupar</title>
 		<!-- link to main stylesheet -->
 		<link rel="stylesheet" type="text/css" href="/css/main.css">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
 	</head>
-	<body>
-		<nav>
+	<body onload="myFunction()" style="margin:0;">
+		<div id="loader"></div>
+
+		<div style="display:none;" id="myDiv" class="animate-bottom">
+			<nav>
     		<ul>
         		<li><a href="/">Home</a></li>
 			<li><a href="#About">About</a></li>
@@ -38,5 +42,20 @@
         		<li><a href="https://github.com/rupark">github.com/rupark</a></li>
 			</ul>
 		</footer>
+	</div>
+
+<script>
+var myVar;
+
+function myFunction() {
+  myVar = setTimeout(showPage, 3000);
+}
+
+function showPage() {
+  document.getElementById("loader").style.display = "none";
+  document.getElementById("myDiv").style.display = "block";
+}
+</script>
+		
 	</body>
 </html>
