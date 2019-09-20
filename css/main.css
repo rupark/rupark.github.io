@@ -50,7 +50,7 @@ ul.posts li {
 }
 #codefont {
   font-size: 2em;
-  font: 'Courier-new';
+  font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
   color: white;
 }
 
