@@ -52,6 +52,7 @@ ul.posts li {
   font-size: 2em;
   font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
   color: white;
+  margin-bottom: 10px;
 }
 
 /**/
