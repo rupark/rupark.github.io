@@ -10,7 +10,7 @@ body {
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    padding: 60px;
+    padding: 0px;
     list-style: none;
     font-weight: bold;
 }
@@ -29,18 +29,15 @@ h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     color: white;
-    margin-left: 60px;
 }
 p {
     font-size: 1.5em;
     line-height: 1.4em;
     color: white;
-    margin-left: 60px;
 }
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
-    padding: 60px;
 }
 
 ul.posts { 
