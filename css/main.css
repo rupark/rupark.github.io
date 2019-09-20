@@ -48,6 +48,11 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+#codefont {
+  font-size: 2em;
+  font-family:"Courier New", Courier, monospace;
+  color: white;
+}
 
 /**/
 #loader {
